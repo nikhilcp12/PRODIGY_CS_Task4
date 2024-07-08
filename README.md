@@ -1,7 +1,5 @@
 # PRODIGY_CS_Task4
-Sure! Below is a short README file for the keylogger.
 
----
 
 # Keylogger
 
